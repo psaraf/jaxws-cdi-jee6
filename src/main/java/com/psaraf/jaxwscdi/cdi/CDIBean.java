@@ -9,10 +9,9 @@ package com.psaraf.jaxwscdi.cdi;
  *
  * @author prashantsaraf
  */
-
 public class CDIBean {
 
-public void someMethod(){
-    System.out.println("Hello CDI");
-}    
+    public void someMethod() {
+       //TODO Task for bean method
+    }
 }
